@@ -9,28 +9,27 @@
     text-align: center;
 }
 
-.line-1 {
+.line-1,
+.line-2,
+.line-3 {
     list-style-type: none;
     text-align: center;
-    background-color: #ffd700;
-    margin-left: -40px;
     border-style: solid;
 }
 
+.line-1 {
+    background-color: #ffd700;
+    margin-left: -40px;
+}
+
 .line-2 {
-    list-style-type: none;
-    text-align: center;
     background-color: antiquewhite;
     margin-left: -40px;
-    border-style: solid;
     margin-top: 5px;
     margin-bottom: 5px;
 }
 
 .line-3 {
-    list-style-type: none;
-    text-align: center;
     background-color: lightsalmon;
     margin-left: -40px;
-    border-style: solid;
 }
