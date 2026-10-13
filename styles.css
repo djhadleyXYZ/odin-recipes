@@ -1,10 +1,36 @@
 /* index.html css styling */
 .main-title {
     background-color: royalblue;
-    border-style: double;
+    border-style: solid;
     text-align: center;
 }
 
 .delivery-line {
     text-align: center;
+}
+
+.line-1 {
+    list-style-type: none;
+    text-align: center;
+    background-color: #ffd700;
+    margin-left: -40px;
+    border-style: solid;
+}
+
+.line-2 {
+    list-style-type: none;
+    text-align: center;
+    background-color: antiquewhite;
+    margin-left: -40px;
+    border-style: solid;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.line-3 {
+    list-style-type: none;
+    text-align: center;
+    background-color: lightsalmon;
+    margin-left: -40px;
+    border-style: solid;
 }
