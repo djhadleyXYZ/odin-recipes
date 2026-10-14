@@ -47,3 +47,12 @@
     border-width: 10px;
     margin-left: 500px;
 }
+
+.sub-homepage-1 {
+    border-style: solid;
+    display: block;
+    text-align: center;
+    background-color: lightskyblue;
+    margin-left: 800px;
+    margin-right: 800px;
+}
