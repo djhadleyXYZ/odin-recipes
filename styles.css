@@ -34,7 +34,9 @@
     margin-left: -40px;
 }
 
-/* bacon-mac-and-cheese.html styling */
+/* bacon-mac-and-cheese styling */
 .sub-title-1 {
-    background-color: gold;
-}
+    background-color: #ffd700;
+    border-style: solid;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
