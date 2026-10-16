@@ -56,3 +56,10 @@
     margin-left: 800px;
     margin-right: 800px;
 }
+
+/* easy_fried_rice styling */
+.sub-title-2 {
+    background: antiquewhite;
+    border-style: solid;
+    text-align: center;
+}
