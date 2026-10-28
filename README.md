@@ -20,7 +20,7 @@ Front Webpage Preview:
 
 # Lessons Learnd w/ CSS:
 
-    - Learn how to style & structure the design of a webpage (structuring the cascade is still a work in progress.)
+    - Learn how to style & structure the design of a webpage (structuring the cascade is still a work in progress).
     - Learn how to apply different types of CSS properties, such as: background-color, font-size, padding, margin ex.
     - Experiment with different coloring applications for CSS, such as: RGB, #000000 ex. 
 
